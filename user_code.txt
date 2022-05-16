@@ -1,0 +1,7 @@
+R"(
+push 5
+push 5
+push 5
+add
+mul
+)"
